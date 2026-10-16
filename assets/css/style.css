@@ -193,7 +193,7 @@ fieldset{border:0;padding:0;margin:0 0 1rem}legend{font-weight:800;margin-bottom
 @media (max-width:900px){
  .links,.nav-call{display:none}
  .hero{grid-template-columns:1fr;padding-top:6rem;min-height:auto}
- .hero-art{width:min(88%,420px);order:-1}.s1{width:5.5rem;height:5.5rem;font-size:.85rem;left:-.8rem}
+ .hero-art{width:min(74%,330px);order:-1}.hero-frame{aspect-ratio:1}.s1{width:5.5rem;height:5.5rem;font-size:.85rem;left:-.8rem}
  .maison{grid-template-columns:1fr;border-radius:32px}
  .reviews{grid-template-columns:1fr}.steps{grid-template-columns:1fr}.foot-in{grid-template-columns:1fr}
 }
